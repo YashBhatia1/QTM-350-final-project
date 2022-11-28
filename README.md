@@ -1,7 +1,7 @@
 # QTM-350-final-project
 ## Amazon Translate vs Google Translate – An Evaluation
 
-Welcome to our QTM 350 - Data Science Computing Final Project! Our team is Simran Mallik, Rishika Shah, Yash Bhatia, Lia Rubel, Ceci Chen, and Senna Kim. We are excited to share our comparative analysis of AWS Translate and Google Translate with you. 
+Welcome to our QTM 350 - Data Science Computing Final Project! Our team is Simran Mallik, Rishika Shah, Yash Bhatia, Lia Rubel, Ceci Chen, and Senna Kim. We are excited to share our comparative analysis of [AWS Translate](https://aws.amazon.com/translate/) and [Google Translate](https://translate.google.com/) with you. 
 
 In this project, we assess the quality of AWS Translate by comparing it to Google Translate through both qualitative and quantitative measures. We also analyze the services through a formal vs informal framework.  In this study, we use Spanish, French, and Chinese as our test languages. Ultimately, we conclude that users may find AWS Translate more helpful for “informal” language and Google Translate more helpful for “formal” language. 
 
