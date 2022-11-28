@@ -8,20 +8,28 @@ In this project, we assess the quality of AWS Translate by comparing it to Googl
 To walk through our project, please read our blog which outlines our process in its entirety. The blog includes the following sections: 
 
 - Background and Motivation
-Hypothesis
-Data
-Method
-Analysis
-Results
-Discussion
+
+- Hypothesis
+
+- Data
+
+- Method
+
+- Analysis
+
+- Results
+
+- Discussion
 
 The data section in the [blog](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/350final_blog.ipynb) also includes an architecture diagram of the following AWS resources used in the project: 
 
-- Amazon Datasync 
+- [Amazon Datasync](https://aws.amazon.com/datasync/) 
 Securely move data from local machine and network to S3 bucket
-Amazon S3 Buckets 
+
+- [Amazon S3](https://aws.amazon.com/s3/) Buckets
 A source bucket to store data for analysis 
-Amazon Sagemaker 
+
+- [Amazon Sagemaker](https://aws.amazon.com/sagemaker/) 
 Deploy Amazon Translate ML API in Jupyter Notebook environment
 
 For a deeper dive into our analysis (data cleaning, visualization, statistics), refer to the following Jupyter Notebooks: 
