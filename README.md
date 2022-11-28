@@ -7,7 +7,7 @@ In this project, we assess the quality of AWS Translate by comparing it to Googl
 
 To walk through our project, please read our blog which outlines our process in its entirety. The blog includes the following sections: 
 
-Background and Motivation
+- Background and Motivation
 Hypothesis
 Data
 Method
@@ -17,7 +17,7 @@ Discussion
 
 The data section in the [blog](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/350final_blog.ipynb) also includes an architecture diagram of the following AWS resources used in the project: 
 
-Amazon Datasync 
+- Amazon Datasync 
 Securely move data from local machine and network to S3 bucket
 Amazon S3 Buckets 
 A source bucket to store data for analysis 
