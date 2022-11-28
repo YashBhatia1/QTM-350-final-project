@@ -26,11 +26,11 @@ Deploy Amazon Translate ML API in Jupyter Notebook environment
 
 For a deeper dive into our analysis (data cleaning, visualization, statistics), refer to the following Jupyter Notebooks: 
 
-[Final AWS notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20AWS%20Translate.ipynb)
+- [Final AWS notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20AWS%20Translate.ipynb)
 Analysis of AWS Translate through qualitative and quantitative metrics
 
-[Final Google Notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20Google%20Translate.ipynb)
+- [Final Google Notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20Google%20Translate.ipynb)
 Analysis of Google Translate through qualitative and quantitative metrics
 
-[Final Project Analysis notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20Analysis.ipynb)
+- [Final Project Analysis notebook](https://github.com/YashBhatia1/QTM-350-final-project/blob/main/Final%20Project%20Analysis.ipynb)
 Comparison of analysis between AWS and Google Translate with visualizations
